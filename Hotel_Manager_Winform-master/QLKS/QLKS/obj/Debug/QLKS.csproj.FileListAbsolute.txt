@@ -1,0 +1,131 @@
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.pdb
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmvattu.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frminfo.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frminfo.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmvattu.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.pdb
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frminfo.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.frmvattu.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\pj\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\caomi\OneDrive\Máy tính\Hotel_Manager_Winform-master\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\DELL\Desktop\bài tập\Hotel_Manager_Winform-master\QLKS\QLKS\obj\Debug\QLKS.pdb
